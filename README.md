@@ -9,3 +9,6 @@ The Climate Forecast Tool is designed to simplify the process of analyzing and v
 * Automated data ingestion from various climate forecast sources
 * Interactive visualization dashboard for exploring climate trends and patterns
 * Machine learning-based forecast modeling for predicting future climate conditions
+
+## Changelog
+- Added utility functions
